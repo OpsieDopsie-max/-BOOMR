@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boomerang Coin</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffe08a;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    img {
+      max-width: 300px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <img src="A_logo_in_the_digital_illustration_medium_features.png" alt="Boomerang Coin Logo" />
+  <h1>Boomerang Coin</h1>
+  <p>What you throw always comes back.</p>
+</body>
+</html>
