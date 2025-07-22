@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boomerang Coin ($BOOMR)</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(135deg, #0f0f0f, #1e1e1e);
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      color: #00ffe1;
+    }
+    .logo {
+      margin: 20px auto;
+      width: 100px;
+      height: 100px;
+    }
+    h2 {
+      color: #ffd700;
+    }
+    .section {
+      max-width: 800px;
+      margin: 0 auto 40px auto;
+    }
+    .cta {
+      background-color: #00ffe1;
+      color: #000;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    .cta:hover {
+      background-color: #00cbb4;
+    }
+    footer {
+      margin-top: 40px;
+      color: #888;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    Boomerang Coin ($BOOMR)
+  </header>
+  <img src="logo.png" alt="BOOMR Logo" class="logo">
+  <div class="section">
+    <h2>Throw Shade. Catch Gains.</h2>
+    <p>$BOOMR is the karma-powered memecoin built for the wild side of the internet. Inspired by viral boomerang moments, meme justice, and the thrill of returns that hit back harder.</p>
+  </div> <div class="section">
+    <h2>Tokenomics</h2>
+    <p>Supply: 696,969,000 BOOMR<br>
+       Tax: 1% round-trip burn<br>
+       Chain: Solana or Ethereum<br>
+       LP Burned. Ownership Renounced.</p>
+  </div> <div class="section">
+    <h2>Community First</h2>
+    <p>Join the memetic movement. $BOOMR isn’t just a coin — it's a karma machine. Whether you’re laughing at rekt tweets or winning meme battles, BOOMR always comes back.</p>
+    <a href="#" class="cta">Join the Hunt</a>
+  </div> <footer>
+    © 2025 BOOMR Token. Karma loves a comeback.
+  </footer>
+</body>
+</html>
